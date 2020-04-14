@@ -1,2 +1,2 @@
-Répertoire distant fictif pour PAQ E-exams
+Dépôt distant fictif pour PAQ E-exams
 Bowman - Charbonnier
