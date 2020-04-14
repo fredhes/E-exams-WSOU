@@ -1,1 +1,0 @@
-<?php echo "Gestion des cours et examens en ligne" ?>

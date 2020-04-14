@@ -1,0 +1,1 @@
+<?php echo '<p>Accueil du projet E-exams</p>'; ?>
